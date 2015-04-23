@@ -1,3 +1,4 @@
+stupid edit to test push hook
 # Diff to Html by [rtfpessoa](https://github.com/rtfpessoa)
 
 Diff to Html generates pretty HTML diffs from git word diff output.
